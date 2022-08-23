@@ -50,7 +50,7 @@ Now that you’ve completed multiple projects, your task is to create a portfoli
 
 ### Built With
 
-
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -71,6 +71,7 @@ I WANT to view a potential employee's deployed React portfolio of work samples
 
 SO THAT I can assess whether they're a good candidate for an open position
 ```
+<p align="right">(<a href="#top">back to top</a>)</p>
 
 ### Acceptance Criteria
 
@@ -132,7 +133,9 @@ THEN I am presented with text or icon links to the developer’s GitHub and Link
 
 Email: Lawrencecaj@gmail.com
 <br>
+<br>
 Youtube: https://www.youtube.com/channel/UCT9VNw7nEAY0jqPlHM6zlSw
+<br>
 <br>
 Project Link: https://github.com/LKocaj/
 
@@ -140,4 +143,3 @@ Project Link: https://github.com/LKocaj/
 
 https://github.com/Ileriayo/markdown-badges
 
-https://github.com/Ileriayo/markdown-badges
