@@ -1,0 +1,12 @@
+body {
+    margin: 0;
+    font-family: 'Times New Roman', Times, serif;
+  }
+  
+  code {
+    font-family: 'Times New Roman', Times, serif;
+  }
+  
+  .btn-spacing {
+    margin: 0 5px 0 5px;
+  }
