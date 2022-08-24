@@ -14,3 +14,5 @@ ReactDOM.render(
 );
 
 reportWebVitals();
+
+// from module if you want to measure performance
