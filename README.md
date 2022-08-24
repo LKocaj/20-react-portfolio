@@ -138,5 +138,8 @@ Youtube: https://www.youtube.com/channel/UCT9VNw7nEAY0jqPlHM6zlSw
 <br>
 <br>
 Project Link: https://github.com/LKocaj/20-react-portfolio
+<br>
+<br>
+Heroku: https://lkocaj-react-portfolio.herokuapp.com/ | https://git.heroku.com/lkocaj-react-portfolio.git
 
 <p align="right">(<a href="#top">back to top</a>)</p>
