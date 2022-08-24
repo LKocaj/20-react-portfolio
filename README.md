@@ -137,9 +137,6 @@ Email: Lawrencecaj@gmail.com
 Youtube: https://www.youtube.com/channel/UCT9VNw7nEAY0jqPlHM6zlSw
 <br>
 <br>
-Project Link: https://github.com/LKocaj/
+Project Link: https://github.com/LKocaj/20-react-portfolio
 
 <p align="right">(<a href="#top">back to top</a>)</p>
-
-https://github.com/Ileriayo/markdown-badges
-
